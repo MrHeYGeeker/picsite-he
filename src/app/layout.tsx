@@ -7,8 +7,8 @@ import Footer from './components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'PicSite',
-  description: '在线展示你的相册，让你的作品被他人看到',
+  title: 'Mr.He 的图库',
+  description: 'PicSite: 在线展示你的相册，让你的作品被他人看到',
 }
 
 export default function RootLayout({
