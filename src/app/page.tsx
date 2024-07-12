@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-6">PicSite 相册集</h1>
+      <h1 className="text-3xl font-bold mb-6">Mr.He 的图库</h1>
       
       <Suspense fallback={<div>加载中...</div>}>
         <SearchBar albums={albums} />
